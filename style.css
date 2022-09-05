@@ -1,12 +1,18 @@
 body {
     background-color: aquamarine
 }
+#banner{
+    width: 100%;
+}
 h1{
     text-align: center;
     background: #CCCCCC
 }
 p{
     text-align: center
+}
+#missao {
+    font-size: 20px
 }
 strong{
     color: blueviolet;
